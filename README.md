@@ -1,4 +1,4 @@
-# NLP in Finance Notes
+# NLP in Finance
 
 This Repository includes practical materials
 and intuitive notes for NLP newbies.
