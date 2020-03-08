@@ -11,3 +11,5 @@ Word2Vec, GloVe: <a href="https://towardsdatascience.com/understanding-feature-e
 
 Seq2Seq: <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/">
 Visualizing A Neural Machine Translation Model</a>
+
+
