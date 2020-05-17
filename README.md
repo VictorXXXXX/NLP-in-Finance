@@ -4,6 +4,10 @@ This Repository includes practical materials
 and intuitive notes for NLP application in finance.
 
 Reference:   
+
+RNN: <a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks">
+Recurrent Neural Networks cheatsheet</a>
+
 Data Laundering: <a href="https://www.quantopian.com/posts/scraping-10-ks-and-10-qs-for-alpha">
 Scraping 10-Ks and 10-Qs for Alpha</a>  
 
