@@ -18,3 +18,6 @@ Visualizing A Neural Machine Translation Model</a>
 
 Seq2Seq with Attention: <a href="https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3">
 Attn: Illustrated Attention</a>
+
+Quick Intro to NLP: <a href="https://github.com/fastai/course-nlp">
+fast.ai course: A Code-First Introduction to Natural Language Processing</a>
